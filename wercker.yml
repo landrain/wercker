@@ -27,3 +27,4 @@ deploy-accs:
         application_type: java
         file: springbootdemo-0.0.1.zip
      
+
